@@ -1,0 +1,6 @@
+CATEGORY_ID,CATEGORY_NAME
+1,Food
+2,Electronics
+3,Personal Care
+4,Household
+5,Pet Supplies

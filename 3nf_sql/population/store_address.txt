@@ -1,0 +1,11 @@
+STORE_ID,STREET_ADDRESS,CITY_ID
+2,370 pine avenue,100
+9,130 walnut road,101
+7,268 spruce street,102
+10,816 ash place,103
+1,152 elm street,104
+4,720 oak lane,105
+3,450 maple drive,106
+5,596 birch boulevard,107
+8,985 chestnut court,108
+6,603 cedar way,109

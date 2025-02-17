@@ -1,0 +1,110 @@
+CITY_ID,CITY_NAME,POSTAL_CODE
+1,Port Yvetteton,12345
+2,West Amy,23456
+3,Lake Douglas,34567
+4,Anthonyville,45678
+5,North Christy,56789
+6,East Robertside,67890
+7,Elizabethshire,11223
+8,Williamston,22334
+9,Barbaraborough,33445
+10,Lake Nathaniel,44556
+11,North Susanhaven,55667
+12,Barnettview,66778
+13,South Tamaraton,77889
+14,South Karen,88990
+15,West Geraldhaven,99001
+16,Taylorhaven,00112
+17,Virginiashire,11223
+18,West Aliciashire,22334
+19,Barbaraview,33445
+20,Joshuaside,44556
+21,Schmidtshire,55667
+22,East Teresamouth,66778
+23,South Brendanchester,77889
+24,West Jodimouth,88990
+25,East Jonathan,99001
+26,New Rebeccamouth,00112
+27,Ashleyland,11223
+28,Michelebury,22334
+29,Martinside,33445
+30,Lisafurt,44556
+31,East Francis,55667
+32,New Stephanie,66778
+33,Christopherfurt,77889
+34,Brianburgh,88990
+35,Lake Mike,99001
+36,East Gregory,00112
+37,Carolynhaven,11223
+38,Andrewschester,22334
+39,Mcdanielmouth,33445
+40,Lake Katieview,44556
+41,Ashleyborough,55667
+42,South Daniel,66778
+43,North Tinaside,77889
+44,North Williamfort,88990
+45,Haynesfurt,99001
+46,South Jamesland,00112
+47,Juliebury,11223
+48,Hartfort,22334
+49,Port Victoriaborough,33445
+50,Lake Chrischester,44556
+51,Lake Jerryhaven,55667
+52,Edwardston,66778
+53,North Pamela,77889
+54,Lake Wesleyburgh,88990
+55,Michelleburgh,99001
+56,Cunninghamstad,00112
+57,Port Nathanielberg,11223
+58,Gregorytown,22334
+59,Peterstad,33445
+60,West Brianborough,44556
+61,East Manuelland,55667
+62,Johnstad,66778
+63,New Meganfort,77889
+64,New Coreyfort,88990
+65,Jessicaside,99001
+66,Brownland,00112
+67,Reedside,11223
+68,Jimmyfort,22334
+69,Ruizfurt,33445
+70,West John,44556
+71,Port Jamesborough,55667
+72,South Sherylton,66778
+73,Chasebury,77889
+74,South Aaronview,88990
+75,East Nicole,99001
+76,Edwardsfort,00112
+77,Rowlandbury,11223
+78,East Ericfort,22334
+79,Duaneborough,33445
+80,Michaeltown,44556
+81,East Dustin,55667
+82,East Jamesport,66778
+83,South Clarenceview,77889
+84,South Paulmouth,88990
+85,Port Jenniferville,99001
+86,Riversside,00112
+87,Schultzmouth,11223
+88,Leemouth,22334
+89,South Brandon,33445
+90,South Brookeville,44556
+91,Lewistown,55667
+92,East Rebecca,66778
+93,Jennifermouth,77889
+94,Robinsonland,88990
+95,Victoriachester,99001
+96,North Meghan,00112
+97,New Thomasburgh,11223
+98,Johnshire,22334
+99,West Amandatown,33445
+100,los angeles,90001
+101,dallas,75201
+102,san antonio,78201
+103,san jose,95101
+104,new york,10001
+105,houston,77001
+106,chicago,60601
+107,phoenix,85001
+108,san diego,92101
+109,philadelphia,19101
